@@ -1,0 +1,634 @@
+{
+  "sk_stats": {
+    "8478483": {
+      "20162017": {
+        "gp": 77,
+        "goals": 19,
+        "assists": 42,
+        "points": 61,
+        "ppg": 4,
+        "ppa": 21,
+        "sog": 176
+      },
+      "20172018": {
+        "gp": 82,
+        "goals": 22,
+        "assists": 47,
+        "points": 69,
+        "ppg": 8,
+        "ppa": 27,
+        "sog": 194
+      },
+      "20182019": {
+        "gp": 82,
+        "goals": 26,
+        "assists": 68,
+        "points": 94,
+        "ppg": 3,
+        "ppa": 21,
+        "sog": 233
+      },
+      "20192020": {
+        "gp": 59,
+        "goals": 16,
+        "assists": 51,
+        "points": 67,
+        "ppg": 6,
+        "ppa": 24,
+        "sog": 154
+      },
+      "20202021": {
+        "gp": 55,
+        "goals": 20,
+        "assists": 47,
+        "points": 67,
+        "ppg": 0,
+        "ppa": 14,
+        "sog": 156
+      },
+      "20212022": {
+        "gp": 72,
+        "goals": 35,
+        "assists": 62,
+        "points": 97,
+        "ppg": 6,
+        "ppa": 25,
+        "sog": 224
+      },
+      "20222023": {
+        "gp": 80,
+        "goals": 30,
+        "assists": 69,
+        "points": 99,
+        "ppg": 9,
+        "ppa": 36,
+        "sog": 196
+      },
+      "20232024": {
+        "gp": 69,
+        "goals": 26,
+        "assists": 59,
+        "points": 85,
+        "ppg": 8,
+        "ppa": 27,
+        "sog": 158
+      },
+      "20242025": {
+        "gp": 81,
+        "goals": 27,
+        "assists": 75,
+        "points": 102,
+        "ppg": 6,
+        "ppa": 33,
+        "sog": 173
+      }
+    },
+    "8478427": {
+      "20162017": {
+        "gp": 82,
+        "goals": 24,
+        "assists": 25,
+        "points": 49,
+        "ppg": 6,
+        "ppa": 17,
+        "sog": 214
+      },
+      "20172018": {
+        "gp": 78,
+        "goals": 29,
+        "assists": 36,
+        "points": 65,
+        "ppg": 8,
+        "ppa": 16,
+        "sog": 200
+      },
+      "20182019": {
+        "gp": 82,
+        "goals": 30,
+        "assists": 53,
+        "points": 83,
+        "ppg": 3,
+        "ppa": 24,
+        "sog": 243
+      },
+      "20192020": {
+        "gp": 68,
+        "goals": 38,
+        "assists": 28,
+        "points": 66,
+        "ppg": 8,
+        "ppa": 17,
+        "sog": 206
+      },
+      "20202021": {
+        "gp": 56,
+        "goals": 24,
+        "assists": 33,
+        "points": 57,
+        "ppg": 7,
+        "ppa": 18,
+        "sog": 148
+      },
+      "20212022": {
+        "gp": 79,
+        "goals": 37,
+        "assists": 44,
+        "points": 81,
+        "ppg": 13,
+        "ppa": 28,
+        "sog": 221
+      },
+      "20222023": {
+        "gp": 75,
+        "goals": 36,
+        "assists": 31,
+        "points": 67,
+        "ppg": 7,
+        "ppa": 15,
+        "sog": 218
+      },
+      "20232024": {
+        "gp": 78,
+        "goals": 36,
+        "assists": 53,
+        "points": 89,
+        "ppg": 11,
+        "ppa": 32,
+        "sog": 216
+      },
+      "20242025": {
+        "gp": 79,
+        "goals": 29,
+        "assists": 45,
+        "points": 74,
+        "ppg": 5,
+        "ppa": 23,
+        "sog": 207
+      }
+    },
+    "8478010": {
+      "20162017": {
+        "gp": 68,
+        "goals": 18,
+        "assists": 22,
+        "points": 40,
+        "ppg": 5,
+        "ppa": 12,
+        "sog": 122
+      },
+      "20172018": {
+        "gp": 82,
+        "goals": 32,
+        "assists": 34,
+        "points": 66,
+        "ppg": 5,
+        "ppa": 11,
+        "sog": 217
+      },
+      "20182019": {
+        "gp": 79,
+        "goals": 41,
+        "assists": 51,
+        "points": 92,
+        "ppg": 20,
+        "ppa": 35,
+        "sog": 191
+      },
+      "20192020": {
+        "gp": 66,
+        "goals": 25,
+        "assists": 39,
+        "points": 64,
+        "ppg": 8,
+        "ppa": 13,
+        "sog": 141
+      },
+      "20202021": {
+        "gp": 56,
+        "goals": 23,
+        "assists": 25,
+        "points": 48,
+        "ppg": 6,
+        "ppa": 15,
+        "sog": 131
+      },
+      "20212022": {
+        "gp": 66,
+        "goals": 28,
+        "assists": 30,
+        "points": 58,
+        "ppg": 10,
+        "ppa": 22,
+        "sog": 176
+      },
+      "20222023": {
+        "gp": 82,
+        "goals": 51,
+        "assists": 44,
+        "points": 95,
+        "ppg": 20,
+        "ppa": 30,
+        "sog": 235
+      },
+      "20232024": {
+        "gp": 81,
+        "goals": 46,
+        "assists": 44,
+        "points": 90,
+        "ppg": 15,
+        "ppa": 32,
+        "sog": 227
+      },
+      "20242025": {
+        "gp": 77,
+        "goals": 42,
+        "assists": 40,
+        "points": 82,
+        "ppg": 16,
+        "ppa": 31,
+        "sog": 189
+      }
+    },
+    "8479314": {
+      "20162017": {
+        "gp": 76,
+        "goals": 13,
+        "assists": 35,
+        "points": 48,
+        "ppg": 3,
+        "ppa": 13,
+        "sog": 142
+      },
+      "20172018": {
+        "gp": 68,
+        "goals": 24,
+        "assists": 25,
+        "points": 49,
+        "ppg": 10,
+        "ppa": 17,
+        "sog": 188
+      },
+      "20182019": {
+        "gp": 80,
+        "goals": 34,
+        "assists": 43,
+        "points": 77,
+        "ppg": 11,
+        "ppa": 24,
+        "sog": 207
+      },
+      "20192020": {
+        "gp": 69,
+        "goals": 23,
+        "assists": 38,
+        "points": 61,
+        "ppg": 5,
+        "ppa": 19,
+        "sog": 188
+      },
+      "20202021": {
+        "gp": 56,
+        "goals": 16,
+        "assists": 27,
+        "points": 43,
+        "ppg": 4,
+        "ppa": 15,
+        "sog": 151
+      },
+      "20212022": {
+        "gp": 82,
+        "goals": 42,
+        "assists": 62,
+        "points": 104,
+        "ppg": 12,
+        "ppa": 29,
+        "sog": 253
+      },
+      "20222023": {
+        "gp": 79,
+        "goals": 40,
+        "assists": 69,
+        "points": 109,
+        "ppg": 14,
+        "ppa": 36,
+        "sog": 322
+      },
+      "20232024": {
+        "gp": 80,
+        "goals": 26,
+        "assists": 62,
+        "points": 88,
+        "ppg": 6,
+        "ppa": 32,
+        "sog": 280
+      },
+      "20242025": {
+        "gp": 52,
+        "goals": 22,
+        "assists": 35,
+        "points": 57,
+        "ppg": 11,
+        "ppa": 23,
+        "sog": 156
+      }
+    },
+    "8478439": {
+      "20162017": {
+        "gp": 70,
+        "goals": 11,
+        "assists": 17,
+        "points": 28,
+        "ppg": 3,
+        "ppa": 4,
+        "sog": 133
+      },
+      "20172018": {
+        "gp": 81,
+        "goals": 24,
+        "assists": 23,
+        "points": 47,
+        "ppg": 1,
+        "ppa": 3,
+        "sog": 177
+      },
+      "20182019": {
+        "gp": 82,
+        "goals": 24,
+        "assists": 25,
+        "points": 49,
+        "ppg": 4,
+        "ppa": 8,
+        "sog": 182
+      },
+      "20192020": {
+        "gp": 66,
+        "goals": 24,
+        "assists": 37,
+        "points": 61,
+        "ppg": 5,
+        "ppa": 23,
+        "sog": 141
+      },
+      "20202021": {
+        "gp": 50,
+        "goals": 11,
+        "assists": 23,
+        "points": 34,
+        "ppg": 4,
+        "ppa": 11,
+        "sog": 100
+      },
+      "20212022": {
+        "gp": 79,
+        "goals": 16,
+        "assists": 36,
+        "points": 52,
+        "ppg": 3,
+        "ppa": 10,
+        "sog": 220
+      },
+      "20222023": {
+        "gp": 60,
+        "goals": 31,
+        "assists": 30,
+        "points": 61,
+        "ppg": 5,
+        "ppa": 15,
+        "sog": 191
+      },
+      "20232024": {
+        "gp": 76,
+        "goals": 33,
+        "assists": 35,
+        "points": 68,
+        "ppg": 4,
+        "ppa": 9,
+        "sog": 244
+      },
+      "20242025": {
+        "gp": 82,
+        "goals": 24,
+        "assists": 52,
+        "points": 76,
+        "ppg": 8,
+        "ppa": 17,
+        "sog": 188
+      }
+    },
+    "8482679": {
+      "20222023": {
+        "gp": 1,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "ppg": 0,
+        "ppa": 0,
+        "sog": 4
+      },
+      "20232024": {
+        "gp": 34,
+        "goals": 3,
+        "assists": 6,
+        "points": 9,
+        "ppg": 1,
+        "ppa": 1,
+        "sog": 58
+      },
+      "20242025": {
+        "gp": 77,
+        "goals": 24,
+        "assists": 23,
+        "points": 47,
+        "ppg": 5,
+        "ppa": 17,
+        "sog": 180
+      }
+    },
+    "8483512": {
+      "20232024": {
+        "gp": 1,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "ppg": 0,
+        "ppa": 0,
+        "sog": 0
+      },
+      "20242025": {
+        "gp": 4,
+        "goals": 0,
+        "assists": 1,
+        "points": 1,
+        "ppg": 0,
+        "ppa": 0,
+        "sog": 6
+      }
+    },
+    "8476853": {
+      "20132014": {
+        "gp": 73,
+        "goals": 2,
+        "assists": 25,
+        "points": 27,
+        "ppg": 1,
+        "ppa": 12,
+        "sog": 96
+      },
+      "20142015": {
+        "gp": 81,
+        "goals": 8,
+        "assists": 21,
+        "points": 29,
+        "ppg": 1,
+        "ppa": 9,
+        "sog": 148
+      },
+      "20152016": {
+        "gp": 82,
+        "goals": 9,
+        "assists": 27,
+        "points": 36,
+        "ppg": 2,
+        "ppa": 8,
+        "sog": 167
+      },
+      "20162017": {
+        "gp": 76,
+        "goals": 6,
+        "assists": 21,
+        "points": 27,
+        "ppg": 1,
+        "ppa": 5,
+        "sog": 171
+      },
+      "20172018": {
+        "gp": 76,
+        "goals": 6,
+        "assists": 46,
+        "points": 52,
+        "ppg": 1,
+        "ppa": 25,
+        "sog": 182
+      },
+      "20182019": {
+        "gp": 82,
+        "goals": 20,
+        "assists": 52,
+        "points": 72,
+        "ppg": 3,
+        "ppa": 21,
+        "sog": 223
+      },
+      "20192020": {
+        "gp": 47,
+        "goals": 3,
+        "assists": 24,
+        "points": 27,
+        "ppg": 0,
+        "ppa": 7,
+        "sog": 123
+      },
+      "20202021": {
+        "gp": 55,
+        "goals": 5,
+        "assists": 30,
+        "points": 35,
+        "ppg": 1,
+        "ppa": 12,
+        "sog": 101
+      },
+      "20212022": {
+        "gp": 82,
+        "goals": 10,
+        "assists": 58,
+        "points": 68,
+        "ppg": 2,
+        "ppa": 23,
+        "sog": 221
+      },
+      "20222023": {
+        "gp": 65,
+        "goals": 4,
+        "assists": 37,
+        "points": 41,
+        "ppg": 1,
+        "ppa": 17,
+        "sog": 126
+      },
+      "20232024": {
+        "gp": 72,
+        "goals": 7,
+        "assists": 51,
+        "points": 58,
+        "ppg": 1,
+        "ppa": 20,
+        "sog": 173
+      },
+      "20242025": {
+        "gp": 82,
+        "goals": 7,
+        "assists": 34,
+        "points": 41,
+        "ppg": 1,
+        "ppa": 14,
+        "sog": 126
+      }
+    },
+    "8481559": {
+      "20192020": {
+        "gp": 61,
+        "goals": 7,
+        "assists": 14,
+        "points": 21,
+        "ppg": 4,
+        "ppa": 9,
+        "sog": 123
+      },
+      "20202021": {
+        "gp": 56,
+        "goals": 11,
+        "assists": 20,
+        "points": 31,
+        "ppg": 1,
+        "ppa": 7,
+        "sog": 142
+      },
+      "20212022": {
+        "gp": 49,
+        "goals": 26,
+        "assists": 30,
+        "points": 56,
+        "ppg": 6,
+        "ppa": 14,
+        "sog": 165
+      },
+      "20222023": {
+        "gp": 78,
+        "goals": 43,
+        "assists": 56,
+        "points": 99,
+        "ppg": 9,
+        "ppa": 31,
+        "sog": 336
+      },
+      "20232024": {
+        "gp": 62,
+        "goals": 27,
+        "assists": 47,
+        "points": 74,
+        "ppg": 9,
+        "ppa": 31,
+        "sog": 274
+      },
+      "20242025": {
+        "gp": 62,
+        "goals": 27,
+        "assists": 43,
+        "points": 70,
+        "ppg": 6,
+        "ppa": 27,
+        "sog": 229
+      }
+    }
+  }
+}

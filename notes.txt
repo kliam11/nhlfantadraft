@@ -1,0 +1,31 @@
+Hughes: id 8481559
+Aho: cap 9750000
+
+Failed for Ryan O'Reilly: 404 Client Error: Not Found for url: https://capwages.com/players/ryan-o'reilly
+Failed for Matthew Beniers: 404 Client Error: Not Found for url: https://capwages.com/players/matthew-beniers
+Failed for Nick Paul: 404 Client Error: Not Found for url: https://capwages.com/players/nick-paul
+Failed for Joshua Norris: 404 Client Error: Not Found for url: https://capwages.com/players/joshua-norris
+Failed for J.T. Compher: 404 Client Error: Not Found for url: https://capwages.com/players/j.t.-compher
+Failed for Alexander Kerfoot: 404 Client Error: Not Found for url: https://capwages.com/players/alexander-kerfoot
+Failed for K'Andre Miller: 404 Client Error: Not Found for url: https://capwages.com/players/k'andre-miller
+Failed for Drew O'Connor: 404 Client Error: Not Found for url: https://capwages.com/players/drew-o'connor
+Failed for Thomas Novak: 404 Client Error: Not Found for url: https://capwages.com/players/thomas-novak
+Failed for Logan O'Connor: 404 Client Error: Not Found for url: https://capwages.com/players/logan-o'connor
+Failed for Jacob Middleton: 404 Client Error: Not Found for url: https://capwages.com/players/jacob-middleton
+Failed for Nicklaus Perbix: 404 Client Error: Not Found for url: https://capwages.com/players/nicklaus-perbix
+Failed for Christopher Tanev: 404 Client Error: Not Found for url: https://capwages.com/players/christopher-tanev
+Failed for Alexei Toropchenko: 404 Client Error: Not Found for url: https://capwages.com/players/alexei-toropchenko
+Failed for Cameron York: 404 Client Error: Not Found for url: https://capwages.com/players/cameron-york
+Failed for Fyodor Svechkov: 404 Client Error: Not Found for url: https://capwages.com/players/fyodor-svechkov
+Failed for A.J. Greer: 404 Client Error: Not Found for url: https://capwages.com/players/a.j.-greer
+Failed for Yegor Zamula: 404 Client Error: Not Found for url: https://capwages.com/players/yegor-zamula
+Failed for Zachary L'Heureux: 404 Client Error: Not Found for url: https://capwages.com/players/zachary-l'heureux
+Failed for William Borgen: 404 Client Error: Not Found for url: https://capwages.com/players/william-borgen
+Failed for Janis Jérôme Moser: 404 Client Error: Not Found for url: https://capwages.com/players/janis-j%C3%A9r%C3%B4me-moser
+Failed for Artyom Zub: 404 Client Error: Not Found for url: https://capwages.com/players/artyom-zub
+Failed for Zachary Jones: 404 Client Error: Not Found for url: https://capwages.com/players/zachary-jones
+Failed for Aatu Räty: 404 Client Error: Not Found for url: https://capwages.com/players/aatu-r%C3%A4ty
+Failed for Matt Dumba: 404 Client Error: Not Found for url: https://capwages.com/players/matt-dumba
+Failed for Liam Öhgren: 404 Client Error: Not Found for url: https://capwages.com/players/liam-%C3%B6hgren
+Failed for Liam O'Brien: 404 Client Error: Not Found for url: https://capwages.com/players/liam-o'brien
+Failed for Matthew Savoie: 404 Client Error: Not Found for url: https://capwages.com/players/matthew-savoie
