@@ -5,10 +5,10 @@ from lp import *
 import os
 
 ##===-- INITIAL CONFIG --=====##
-cap_space=33400834
-need_forwards=5
-need_defensemen=3
-need_goalies=1
+cap_space=950,834
+need_forwards=1
+need_defensemen=2
+need_goalies=0
 
 
 def print_fantadraft_banner(style="big"):
@@ -68,7 +68,7 @@ def print_opt():
     print("E - Exit\n")
 
 def main():
-    print_fantadraft_banner()
+    print_fantadraft_banner(style="narrow")
     while True:
         print_opt()
         arg = input("Enter option (E to exit): ").strip()
